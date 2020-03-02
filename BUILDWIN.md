@@ -1,5 +1,7 @@
 NOTE: Commands are using `\` as marker for line continuations
 
+NOTE: Building instruction are valid for last RELEASE (see nemtech/catapult-server/releases)
+
 Building on Windows
 ===
 
